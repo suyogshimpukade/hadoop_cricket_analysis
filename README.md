@@ -15,7 +15,7 @@ Project Data Set : Description of the CSV file given for analysis
 * Ball
 * Inning
 * Ball-Count
-* Team
+* Team-rcb
 * Player-On-Strike
 * Player-On-NonStrike
 * Baller-Name
